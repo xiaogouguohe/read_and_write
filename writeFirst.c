@@ -1,4 +1,4 @@
-//writeFirst.cpp
+//writeFirst.c
 
 #include <stdio.h>
 #include <stdlib.h>
